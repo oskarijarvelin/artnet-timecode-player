@@ -1,6 +1,7 @@
 import json
 import os
 import socket
+import sys
 
 import tkinter as tk
 import tkinter.ttk as ttk

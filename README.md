@@ -21,3 +21,6 @@ https://artnetaudioplayer.github.io/
 Python v. 3.7
 Using pygame and tkinter module
 Also works fine with Python 3.9
+
+# Development
+python -m pip install psutil pygame tinytag
